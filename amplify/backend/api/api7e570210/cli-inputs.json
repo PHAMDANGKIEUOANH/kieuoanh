@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/webhook": {
+      "name": "/webhook",
+      "lambdaFunction": "kozjrho26c32ab9",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

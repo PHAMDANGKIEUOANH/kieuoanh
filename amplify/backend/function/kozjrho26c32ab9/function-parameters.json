@@ -1,0 +1,13 @@
+{
+  "permissions": {},
+  "lambdaLayers": [],
+  "environmentVariableList": [
+    {
+      "cloudFormationParameterName": "authKoUserpoolid",
+      "environmentVariableName": "AUTH_KO_USERPOOLID"
+    }
+  ],
+  "secretNames": [
+    "stripe_key"
+  ]
+}

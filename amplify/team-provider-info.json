@@ -1,0 +1,35 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kofvesk-staging-201f1-authRole",
+      "UnauthRoleArn": "arn:aws:iam::089264383529:role/amplify-kofvesk-staging-201f1-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::089264383529:role/amplify-kofvesk-staging-201f1-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-kofvesk-staging-201f1-deployment",
+      "UnauthRoleName": "amplify-kofvesk-staging-201f1-unauthRole",
+      "StackName": "amplify-kofvesk-staging-201f1",
+      "StackId": "arn:aws:cloudformation:us-west-2:089264383529:stack/amplify-kofvesk-staging-201f1/133cbcb0-a3f4-11ef-ba74-0a817a8c9f59",
+      "AmplifyAppId": "d1irb2181ps3hy"
+    },
+    "categories": {
+      "auth": {
+        "amplify": {}
+      },
+      "api": {
+        "amplify": {},
+        "api7e570210": {}
+      },
+      "function": {
+        "kozjrho0a0ac6d4": {},
+        "kozjrho006fca84": {},
+        "kozjrho9969e6e4": {},
+        "kozjrho26c32ab9": {
+          "authKoUserpoolid": "us-west-2_l1HWBhP5z",
+          "secretsPathAmplifyAppId": "d1irb2181ps3hy",
+          "deploymentBucketName": "amplify-kofvesk-staging-201f1-deployment",
+          "s3Key": "amplify-builds/kozjrho26c32ab9-4273787351302b536c56-build.zip"
+        }
+      }
+    }
+  }
+}
